@@ -1,0 +1,17 @@
+.modal-card {
+  &-head {
+    font-weight: bold;
+  }
+
+  &-title {
+    font-weight: 600; 
+  } 
+
+  &-body {
+    min-height: 30vh;
+  }
+
+  & .post {
+    margin-bottom: 20px;
+  }
+}
